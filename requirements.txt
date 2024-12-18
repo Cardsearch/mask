@@ -1,0 +1,6 @@
+Pillow
+numpy
+huggingface-hub
+matplotlib
+onnxruntime
+opencv-python
